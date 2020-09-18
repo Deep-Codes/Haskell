@@ -1,0 +1,20 @@
+HASKELL COMMANDS :
+
+1) Cd to the Directory
+
+2) Create the Haskell Shell
+   ❯ ghci
+
+3) Load the Haskell Module
+   Prelude> :l check.hs
+
+4) Runs the File
+   *Main> :r
+
+5) QUIT HASKELL SHELL
+   *Main> :quit --Quits GHCi
+
+To Run the Main program
+❯ ghci
+Prelude> :l <file.h>
+*Main> main
